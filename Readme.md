@@ -53,7 +53,7 @@ Edit
 ## 📁 Repository Structure
 ```
 ├── app.py # Entry point for web or CLI interface
-├── lawglance_main.py # Core logic for agent orchestration
+├── main.py # Core logic for agent orchestration
 ├── requirements.txt # Python dependencies
 ├── .github/
 │ └── workflows/ # (Optional) GitHub Actions or CI/CD
