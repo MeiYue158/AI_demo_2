@@ -51,14 +51,7 @@ Edit
    ↓
 [5] Output markdown & send via email
 ## 📁 Repository Structure
-bash
-Copy
-Edit
-├── app.py                  # Entry point for web or CLI interface
-├── lawglance_main.py       # Core logic for agent orchestration
-├── requirements.txt        # Python dependencies
-├── .github/workflows       # (Optional) GitHub Actions or CI/CD
-├── README.md               # Project overview (this file)
+<pre><code>📁 Repository Structure . ├── app.py # Entry point for web or CLI interface ├── lawglance_main.py # Core logic for agent orchestration ├── requirements.txt # Python dependencies ├── .github/ │ └── workflows/ # (Optional) GitHub Actions or CI/CD └── README.md # Project overview (this file) </code></pre>
 
 ---
 
